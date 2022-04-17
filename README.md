@@ -1,1 +1,2 @@
 # StockFinder
+Quintessential Team
